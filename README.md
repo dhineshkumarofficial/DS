@@ -686,3 +686,626 @@ Preorder traversal of the constructed AVL tree is
 5 0 -1 1 2 9 6 10 11
 Preorder traversal after deletion of 10
 5 0 -1 1 2 9 6 11
+
+
+============OUTPUT EX 7(a)=============
+
+Graph:
+
+ Adjacency list of vertex 0
+ 2 -> 1 -> 
+
+ Adjacency list of vertex 1
+ 3 -> 2 -> 0 -> 
+
+ Adjacency list of vertex 2
+ 3 -> 1 -> 0 -> 
+
+ Adjacency list of vertex 3
+ 2 -> 1 -> 
+
+ Adjacency list of vertex 4
+ 
+
+ Adjacency list of vertex 5
+ 
+
+ Adjacency list of vertex 6
+ 
+
+ Adjacency list of vertex 7
+ 
+
+ Adjacency list of vertex 8
+ 
+
+ Adjacency list of vertex 9
+ 
+
+ Adjacency list of vertex 10
+ 
+
+ Adjacency list of vertex 11
+ 
+
+ Adjacency list of vertex 12
+ 
+
+ Adjacency list of vertex 13
+ 
+
+ Adjacency list of vertex 14
+ 
+
+ Adjacency list of vertex 15
+ 
+
+ Adjacency list of vertex 16
+ 
+
+ Adjacency list of vertex 17
+ 
+
+ Adjacency list of vertex 18
+ 
+
+ Adjacency list of vertex 19
+ 
+
+ Adjacency list of vertex 20
+ 
+
+ Adjacency list of vertex 21
+ 
+
+ Adjacency list of vertex 22
+ 
+
+ Adjacency list of vertex 23
+ 
+
+ Adjacency list of vertex 24
+ 
+
+ Adjacency list of vertex 25
+ 
+
+ Adjacency list of vertex 26
+ 
+
+ Adjacency list of vertex 27
+ 
+
+ Adjacency list of vertex 28
+ 
+
+ Adjacency list of vertex 29
+ 
+
+ Adjacency list of vertex 30
+ 
+
+ Adjacency list of vertex 31
+ 
+
+ Adjacency list of vertex 32
+ 
+
+ Adjacency list of vertex 33
+ 
+
+ Adjacency list of vertex 34
+ 
+
+ Adjacency list of vertex 35
+ 
+
+ Adjacency list of vertex 36
+ 
+
+ Adjacency list of vertex 37
+ 
+
+ Adjacency list of vertex 38
+ 
+
+ Adjacency list of vertex 39
+ 
+
+ Adjacency list of vertex 40
+ 
+
+ Adjacency list of vertex 41
+ 
+
+ Adjacency list of vertex 42
+ 
+
+ Adjacency list of vertex 43
+ 
+
+ Adjacency list of vertex 44
+ 
+
+ Adjacency list of vertex 45
+ 
+
+ Adjacency list of vertex 46
+ 
+
+ Adjacency list of vertex 47
+ 
+
+ Adjacency list of vertex 48
+ 
+
+ Adjacency list of vertex 49
+ 
+
+ Adjacency list of vertex 50
+ 
+
+ Adjacency list of vertex 51
+ 
+
+ Adjacency list of vertex 52
+ 
+
+ Adjacency list of vertex 53
+ 
+
+ Adjacency list of vertex 54
+ 
+
+ Adjacency list of vertex 55
+ 
+
+ Adjacency list of vertex 56
+ 
+
+ Adjacency list of vertex 57
+ 
+
+ Adjacency list of vertex 58
+ 
+
+ Adjacency list of vertex 59
+ 
+
+ Adjacency list of vertex 60
+ 
+
+ Adjacency list of vertex 61
+ 
+
+ Adjacency list of vertex 62
+ 
+
+ Adjacency list of vertex 63
+ 
+
+ Adjacency list of vertex 64
+ 
+
+ Adjacency list of vertex 65
+ 
+
+ Adjacency list of vertex 66
+ 
+
+ Adjacency list of vertex 67
+ 
+
+ Adjacency list of vertex 68
+ 
+
+ Adjacency list of vertex 69
+ 
+
+ Adjacency list of vertex 70
+ 
+
+ Adjacency list of vertex 71
+ 
+
+ Adjacency list of vertex 72
+ 
+
+ Adjacency list of vertex 73
+ 
+
+ Adjacency list of vertex 74
+ 
+
+ Adjacency list of vertex 75
+ 
+
+ Adjacency list of vertex 76
+ 
+
+ Adjacency list of vertex 77
+ 
+
+ Adjacency list of vertex 78
+ 
+
+ Adjacency list of vertex 79
+ 
+
+ Adjacency list of vertex 80
+ 
+
+ Adjacency list of vertex 81
+ 
+
+ Adjacency list of vertex 82
+ 
+
+ Adjacency list of vertex 83
+ 
+
+ Adjacency list of vertex 84
+ 
+
+ Adjacency list of vertex 85
+ 
+
+ Adjacency list of vertex 86
+ 
+
+ Adjacency list of vertex 87
+ 
+
+ Adjacency list of vertex 88
+ 
+
+ Adjacency list of vertex 89
+ 
+
+ Adjacency list of vertex 90
+ 
+
+ Adjacency list of vertex 91
+ 
+
+ Adjacency list of vertex 92
+ 
+
+ Adjacency list of vertex 93
+ 
+
+ Adjacency list of vertex 94
+ 
+
+ Adjacency list of vertex 95
+ 
+
+ Adjacency list of vertex 96
+ 
+
+ Adjacency list of vertex 97
+ 
+
+ Adjacency list of vertex 98
+ 
+
+ Adjacency list of vertex 99
+ 
+
+BFS Traversal starting from vertex 0:
+Visited 0
+Visited 2
+Visited 1
+Visited 3
+
+============OUTPUT 7 (b)=====
+
+Graph:
+
+ Adjacency list of vertex 0
+ 2 -> 1 -> 
+
+ Adjacency list of vertex 1
+ 3 -> 2 -> 
+
+ Adjacency list of vertex 2
+ 3 -> 
+
+ Adjacency list of vertex 3
+ 
+
+ Adjacency list of vertex 4
+ 
+
+ Adjacency list of vertex 5
+ 
+
+ Adjacency list of vertex 6
+ 
+
+ Adjacency list of vertex 7
+ 
+
+ Adjacency list of vertex 8
+ 
+
+ Adjacency list of vertex 9
+ 
+
+ Adjacency list of vertex 10
+ 
+
+ Adjacency list of vertex 11
+ 
+
+ Adjacency list of vertex 12
+ 
+
+ Adjacency list of vertex 13
+ 
+
+ Adjacency list of vertex 14
+ 
+
+ Adjacency list of vertex 15
+ 
+
+ Adjacency list of vertex 16
+ 
+
+ Adjacency list of vertex 17
+ 
+
+ Adjacency list of vertex 18
+ 
+
+ Adjacency list of vertex 19
+ 
+
+ Adjacency list of vertex 20
+ 
+
+ Adjacency list of vertex 21
+ 
+
+ Adjacency list of vertex 22
+ 
+
+ Adjacency list of vertex 23
+ 
+
+ Adjacency list of vertex 24
+ 
+
+ Adjacency list of vertex 25
+ 
+
+ Adjacency list of vertex 26
+ 
+
+ Adjacency list of vertex 27
+ 
+
+ Adjacency list of vertex 28
+ 
+
+ Adjacency list of vertex 29
+ 
+
+ Adjacency list of vertex 30
+ 
+
+ Adjacency list of vertex 31
+ 
+
+ Adjacency list of vertex 32
+ 
+
+ Adjacency list of vertex 33
+ 
+
+ Adjacency list of vertex 34
+ 
+
+ Adjacency list of vertex 35
+ 
+
+ Adjacency list of vertex 36
+ 
+
+ Adjacency list of vertex 37
+ 
+
+ Adjacency list of vertex 38
+ 
+
+ Adjacency list of vertex 39
+ 
+
+ Adjacency list of vertex 40
+ 
+
+ Adjacency list of vertex 41
+ 
+
+ Adjacency list of vertex 42
+ 
+
+ Adjacency list of vertex 43
+ 
+
+ Adjacency list of vertex 44
+ 
+
+ Adjacency list of vertex 45
+ 
+
+ Adjacency list of vertex 46
+ 
+
+ Adjacency list of vertex 47
+ 
+
+ Adjacency list of vertex 48
+ 
+
+ Adjacency list of vertex 49
+ 
+
+ Adjacency list of vertex 50
+ 
+
+ Adjacency list of vertex 51
+ 
+
+ Adjacency list of vertex 52
+ 
+
+ Adjacency list of vertex 53
+ 
+
+ Adjacency list of vertex 54
+ 
+
+ Adjacency list of vertex 55
+ 
+
+ Adjacency list of vertex 56
+ 
+
+ Adjacency list of vertex 57
+ 
+
+ Adjacency list of vertex 58
+ 
+
+ Adjacency list of vertex 59
+ 
+
+ Adjacency list of vertex 60
+ 
+
+ Adjacency list of vertex 61
+ 
+
+ Adjacency list of vertex 62
+ 
+
+ Adjacency list of vertex 63
+ 
+
+ Adjacency list of vertex 64
+ 
+
+ Adjacency list of vertex 65
+ 
+
+ Adjacency list of vertex 66
+ 
+
+ Adjacency list of vertex 67
+ 
+
+ Adjacency list of vertex 68
+ 
+
+ Adjacency list of vertex 69
+ 
+
+ Adjacency list of vertex 70
+ 
+
+ Adjacency list of vertex 71
+ 
+
+ Adjacency list of vertex 72
+ 
+
+ Adjacency list of vertex 73
+ 
+
+ Adjacency list of vertex 74
+ 
+
+ Adjacency list of vertex 75
+ 
+
+ Adjacency list of vertex 76
+ 
+
+ Adjacency list of vertex 77
+ 
+
+ Adjacency list of vertex 78
+ 
+
+ Adjacency list of vertex 79
+ 
+
+ Adjacency list of vertex 80
+ 
+
+ Adjacency list of vertex 81
+ 
+
+ Adjacency list of vertex 82
+ 
+
+ Adjacency list of vertex 83
+ 
+
+ Adjacency list of vertex 84
+ 
+
+ Adjacency list of vertex 85
+ 
+
+ Adjacency list of vertex 86
+ 
+
+ Adjacency list of vertex 87
+ 
+
+ Adjacency list of vertex 88
+ 
+
+ Adjacency list of vertex 89
+ 
+
+ Adjacency list of vertex 90
+ 
+
+ Adjacency list of vertex 91
+ 
+
+ Adjacency list of vertex 92
+ 
+
+ Adjacency list of vertex 93
+ 
+
+ Adjacency list of vertex 94
+ 
+
+ Adjacency list of vertex 95
+ 
+
+ Adjacency list of vertex 96
+ 
+
+ Adjacency list of vertex 97
+ 
+
+ Adjacency list of vertex 98
+ 
+
+ Adjacency list of vertex 99
+ 
+
+DFS Traversal starting from vertex 0:
+Visited 0 
+Visited 2 
+Visited 3 
+Visited 1 
+
+==========OUTPUT EX 8========

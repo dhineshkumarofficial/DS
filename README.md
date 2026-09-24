@@ -1,4 +1,4 @@
-Ex(1a) --------------OUTPUT
+--------------Ex(1a) OUTPUT---------------
 Array Operations Menu:
 Create Array
 Insert Element
@@ -61,7 +61,7 @@ Enter your choice: 5
 Array elements: 1 2 3 4 5
 
 
-Ex(1b) ----------OUTPUT
+------------------Ex(1b) OUTPUT------------
 Singly Linked List Operations:
 Insert at Beginning
 Insert at End
@@ -226,7 +226,7 @@ Display
 Exit
 Enter your choice: 8
 
-Ex(2) -------------------- OUTPUT
+----------------Ex(2)  OUTPUT------------------
 Circular Linked List Operations:
 Create List
 Insert at Beginning
@@ -406,7 +406,7 @@ Display
 Exit
 Enter your choice: 9
 
-Ex(3a) --------------------------OUTPUT
+=========Ex(3a) OUTPUT===========
 Stack Operations Menu:
 Push
 Pop
@@ -451,7 +451,7 @@ Display
 Exit
 Enter your choice: 4
 
-Ex(3b) ---------------------------- OUTPUT
+==========Ex(3b) OUTPUT==========
 Queue Operations Menu:
 Enqueue
 Dequeue
